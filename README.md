@@ -4,7 +4,7 @@ A Hacker News client for Android.
 
 ## Download APK
 
-![Download](http://qrcode.kaywa.com/img.php?s=5&d=http://gluegadget.com/hndroid/HNdroid.apk)
+![Download](http://dl.dropbox.com/u/40773/Main-debug.apk)
 
 ## Build Instructions
 
